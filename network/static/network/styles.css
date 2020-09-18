@@ -1,0 +1,17 @@
+.post-form{
+    
+    margin: 2em;
+}
+.post-form button{
+    display: block;
+    margin-top: .5em;
+}
+body{
+    background-color:white;
+}
+
+.post{
+    border-style: solid;
+    margin: 2em;
+    padding: 2em;
+}
